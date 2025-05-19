@@ -1,0 +1,54 @@
+{
+  "query": "i would like a framework on generative AI",
+  "result": {
+    "query": "i would like a framework on generative AI",
+    "research_results": [
+      {
+        "title": "Sample Result",
+        "link": "https://example.com",
+        "snippet": "This is a sample result"
+      }
+    ],
+    "summarized_content": "This is a sample summary of i would like a framework on generative AI",
+    "knowledge_graph": {
+      "nodes": [
+        {
+          "name": "Topic",
+          "category": "Topic",
+          "importance": 3
+        },
+        {
+          "name": "Subtopic",
+          "category": "Concept",
+          "importance": 2
+        },
+        {
+          "name": "Related",
+          "category": "Technology",
+          "importance": 1
+        }
+      ],
+      "edges": [
+        {
+          "source": "Topic",
+          "target": "Subtopic",
+          "relationship": "includes"
+        },
+        {
+          "source": "Subtopic",
+          "target": "Related",
+          "relationship": "relates_to"
+        }
+      ]
+    },
+    "metadata": {
+      "workflow_id": "mock_20250519063301",
+      "start_timestamp": "2025-05-19T06:33:01.753091",
+      "end_timestamp": "2025-05-19T06:33:01.753091",
+      "query": "i would like a framework on generative AI",
+      "success": true,
+      "results_count": 1
+    }
+  },
+  "timestamp": "20250519063301"
+}

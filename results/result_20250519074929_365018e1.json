@@ -1,0 +1,104 @@
+{
+  "query": "generative ai",
+  "result": {
+    "query": "generative ai",
+    "research_results": [
+      {
+        "title": "Understanding generative: A Comprehensive Guide",
+        "link": "https://example.com/guide",
+        "snippet": "This guide provides a detailed overview of generative and its applications."
+      },
+      {
+        "title": "Latest Developments in generative",
+        "link": "https://example.com/latest",
+        "snippet": "Recent advancements in generative have led to significant breakthroughs."
+      },
+      {
+        "title": "generative Applications in Industry",
+        "link": "https://example.com/applications",
+        "snippet": "How generative is transforming various industries and creating new opportunities."
+      }
+    ],
+    "summarized_content": "\n                generative is a complex field with multiple aspects and applications.\n\n                Key aspects include:\n                - generative Aspect 1: Fundamental principles and core concepts\n                - generative Aspect 2: Methodologies and approaches\n                - generative Aspect 3: Practical implementations\n\n                Related technologies:\n                - Technology: Enabling technologies\n                - Method: Complementary methodologies\n                - Application: Real-world applications\n\n                Recent developments have shown significant progress in integrating generative with other fields,\n                leading to innovative solutions for complex problems.\n            ",
+    "knowledge_graph": {
+      "nodes": [
+        {
+          "name": "generative",
+          "category": "Topic",
+          "importance": 3
+        },
+        {
+          "name": "generative Aspect 1",
+          "category": "Concept",
+          "importance": 2
+        },
+        {
+          "name": "generative Aspect 2",
+          "category": "Concept",
+          "importance": 2
+        },
+        {
+          "name": "generative Aspect 3",
+          "category": "Concept",
+          "importance": 2
+        },
+        {
+          "name": "Technology 1",
+          "category": "Technology",
+          "importance": 1
+        },
+        {
+          "name": "Method 2",
+          "category": "Technology",
+          "importance": 1
+        },
+        {
+          "name": "Application 3",
+          "category": "Technology",
+          "importance": 1
+        }
+      ],
+      "edges": [
+        {
+          "source": "generative",
+          "target": "generative Aspect 1",
+          "relationship": "includes"
+        },
+        {
+          "source": "generative",
+          "target": "generative Aspect 2",
+          "relationship": "includes"
+        },
+        {
+          "source": "generative",
+          "target": "generative Aspect 3",
+          "relationship": "includes"
+        },
+        {
+          "source": "generative Aspect 1",
+          "target": "Technology 1",
+          "relationship": "relates_to"
+        },
+        {
+          "source": "generative Aspect 2",
+          "target": "Method 2",
+          "relationship": "relates_to"
+        },
+        {
+          "source": "generative Aspect 3",
+          "target": "Application 3",
+          "relationship": "relates_to"
+        }
+      ]
+    },
+    "metadata": {
+      "workflow_id": "mock_20250519074929",
+      "start_timestamp": "2025-05-19T07:49:29.757629",
+      "end_timestamp": "2025-05-19T07:49:29.757629",
+      "query": "generative ai",
+      "success": true,
+      "results_count": 3
+    }
+  },
+  "timestamp": "20250519074929"
+}

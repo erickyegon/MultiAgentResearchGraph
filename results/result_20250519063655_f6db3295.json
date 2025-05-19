@@ -1,0 +1,54 @@
+{
+  "query": "I need to learn about generative Ai. gove me a roadmap for it",
+  "result": {
+    "query": "I need to learn about generative Ai. gove me a roadmap for it",
+    "research_results": [
+      {
+        "title": "Sample Result",
+        "link": "https://example.com",
+        "snippet": "This is a sample result"
+      }
+    ],
+    "summarized_content": "This is a sample summary of I need to learn about generative Ai. gove me a roadmap for it",
+    "knowledge_graph": {
+      "nodes": [
+        {
+          "name": "Topic",
+          "category": "Topic",
+          "importance": 3
+        },
+        {
+          "name": "Subtopic",
+          "category": "Concept",
+          "importance": 2
+        },
+        {
+          "name": "Related",
+          "category": "Technology",
+          "importance": 1
+        }
+      ],
+      "edges": [
+        {
+          "source": "Topic",
+          "target": "Subtopic",
+          "relationship": "includes"
+        },
+        {
+          "source": "Subtopic",
+          "target": "Related",
+          "relationship": "relates_to"
+        }
+      ]
+    },
+    "metadata": {
+      "workflow_id": "mock_20250519063655",
+      "start_timestamp": "2025-05-19T06:36:55.219561",
+      "end_timestamp": "2025-05-19T06:36:55.219561",
+      "query": "I need to learn about generative Ai. gove me a roadmap for it",
+      "success": true,
+      "results_count": 1
+    }
+  },
+  "timestamp": "20250519063655"
+}

@@ -1,0 +1,54 @@
+{
+  "query": "sql",
+  "result": {
+    "query": "sql",
+    "research_results": [
+      {
+        "title": "Sample Result",
+        "link": "https://example.com",
+        "snippet": "This is a sample result"
+      }
+    ],
+    "summarized_content": "This is a sample summary of sql",
+    "knowledge_graph": {
+      "nodes": [
+        {
+          "name": "Topic",
+          "category": "Topic",
+          "importance": 3
+        },
+        {
+          "name": "Subtopic",
+          "category": "Concept",
+          "importance": 2
+        },
+        {
+          "name": "Related",
+          "category": "Technology",
+          "importance": 1
+        }
+      ],
+      "edges": [
+        {
+          "source": "Topic",
+          "target": "Subtopic",
+          "relationship": "includes"
+        },
+        {
+          "source": "Subtopic",
+          "target": "Related",
+          "relationship": "relates_to"
+        }
+      ]
+    },
+    "metadata": {
+      "workflow_id": "mock_20250519064312",
+      "start_timestamp": "2025-05-19T06:43:12.222844",
+      "end_timestamp": "2025-05-19T06:43:12.222844",
+      "query": "sql",
+      "success": true,
+      "results_count": 1
+    }
+  },
+  "timestamp": "20250519064312"
+}

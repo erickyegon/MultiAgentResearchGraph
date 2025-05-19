@@ -1,0 +1,104 @@
+{
+  "query": "agentic ai",
+  "result": {
+    "query": "agentic ai",
+    "research_results": [
+      {
+        "title": "Understanding agentic: A Comprehensive Guide",
+        "link": "https://example.com/guide",
+        "snippet": "This guide provides a detailed overview of agentic and its applications."
+      },
+      {
+        "title": "Latest Developments in agentic",
+        "link": "https://example.com/latest",
+        "snippet": "Recent advancements in agentic have led to significant breakthroughs."
+      },
+      {
+        "title": "agentic Applications in Industry",
+        "link": "https://example.com/applications",
+        "snippet": "How agentic is transforming various industries and creating new opportunities."
+      }
+    ],
+    "summarized_content": "\n                agentic is a complex field with multiple aspects and applications.\n\n                Key aspects include:\n                - agentic Aspect 1: Fundamental principles and core concepts\n                - agentic Aspect 2: Methodologies and approaches\n                - agentic Aspect 3: Practical implementations\n\n                Related technologies:\n                - Technology: Enabling technologies\n                - Method: Complementary methodologies\n                - Application: Real-world applications\n\n                Recent developments have shown significant progress in integrating agentic with other fields,\n                leading to innovative solutions for complex problems.\n            ",
+    "knowledge_graph": {
+      "nodes": [
+        {
+          "name": "agentic",
+          "category": "Topic",
+          "importance": 3
+        },
+        {
+          "name": "agentic Aspect 1",
+          "category": "Concept",
+          "importance": 2
+        },
+        {
+          "name": "agentic Aspect 2",
+          "category": "Concept",
+          "importance": 2
+        },
+        {
+          "name": "agentic Aspect 3",
+          "category": "Concept",
+          "importance": 2
+        },
+        {
+          "name": "Technology 1",
+          "category": "Technology",
+          "importance": 1
+        },
+        {
+          "name": "Method 2",
+          "category": "Technology",
+          "importance": 1
+        },
+        {
+          "name": "Application 3",
+          "category": "Technology",
+          "importance": 1
+        }
+      ],
+      "edges": [
+        {
+          "source": "agentic",
+          "target": "agentic Aspect 1",
+          "relationship": "includes"
+        },
+        {
+          "source": "agentic",
+          "target": "agentic Aspect 2",
+          "relationship": "includes"
+        },
+        {
+          "source": "agentic",
+          "target": "agentic Aspect 3",
+          "relationship": "includes"
+        },
+        {
+          "source": "agentic Aspect 1",
+          "target": "Technology 1",
+          "relationship": "relates_to"
+        },
+        {
+          "source": "agentic Aspect 2",
+          "target": "Method 2",
+          "relationship": "relates_to"
+        },
+        {
+          "source": "agentic Aspect 3",
+          "target": "Application 3",
+          "relationship": "relates_to"
+        }
+      ]
+    },
+    "metadata": {
+      "workflow_id": "mock_20250519065913",
+      "start_timestamp": "2025-05-19T06:59:13.991283",
+      "end_timestamp": "2025-05-19T06:59:13.991283",
+      "query": "agentic ai",
+      "success": true,
+      "results_count": 3
+    }
+  },
+  "timestamp": "20250519065913"
+}
